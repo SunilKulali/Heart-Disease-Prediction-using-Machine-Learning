@@ -15,8 +15,26 @@ This project aims to predict the likelihood of heart disease based on patient he
 * **Hyperparameter Tuning:** Using GridSearchCV to improve performance.<br>
 * **Visualization:** Model comparison, feature importance, and performance metrics.<br>
 
+# How to Use the Project
+Clone the Repository
+
+git clone https://github.com/YOUR_USERNAME/Heart-Disease-Prediction.git
+cd Heart-Disease-Prediction
+
+Install Dependencies
+
+pip install -r requirements.txt
+
+Run the Jupyter Notebook
+
 # Requirements
-* Python 3.x<br>
+* Jupyter Notebook (Python 3.x)<br>
 * Pandas, NumPy<br>
 * Matplotlib, Seaborn<br>
 * Scikit-learn<br>
+
+ # Key Insights
+* Feature Importance Analysis reveals critical risk factors.
+* Random Forest & Logistic Regression perform best in predictions.
+* Data-driven insights help in early detection of heart disease.
+
