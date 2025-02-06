@@ -27,13 +27,13 @@ pip install -r requirements.txt
 
 Run the Jupyter Notebook
 
-# Requirements
+# 📝 Requirements
 * Jupyter Notebook (Python 3.x)<br>
 * Pandas, NumPy<br>
 * Matplotlib, Seaborn<br>
 * Scikit-learn<br>
 
- # Key Insights
+ # 📊 Key Insights
 * Feature Importance Analysis reveals critical risk factors.
 * Random Forest & Logistic Regression perform best in predictions.
 * Data-driven insights help in early detection of heart disease.
